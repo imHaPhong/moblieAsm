@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">I-Rate</string>
+    <string-array name="brew_array">
+        <item>Need to improve</item>
+        <item>OKAY</item>
+        <item>Good</item>
+        <item>Excellent</item>
+    </string-array>
+</resources>
